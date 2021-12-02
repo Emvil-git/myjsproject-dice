@@ -1,0 +1,25 @@
+body{
+    font-family: 'Press Start 2P', cursive;
+    margin: auto;
+}
+
+.dice-image{
+    width: 300px;
+}
+
+.btn{
+    border-radius: 0;
+}
+
+.footer{
+    font-size: 16px;
+}
+
+#top-label{
+    background-color: black;
+}
+
+#heart-icon{
+    width: 40px;
+    margin: 0;
+  }
